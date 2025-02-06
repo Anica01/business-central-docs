@@ -1,3 +1,15 @@
-theme: jekyll-theme-minimal
-title: Business Central Dokumentacija
-description: Detaljno uputstvo za korišćenje dodatka za brzu poštu
+title: "Business Central Dokumentacija"
+description: "Detaljno uputstvo za integraciju sa brzom poštom"
+theme: "just-the-docs"
+
+just_the_docs:
+  search_enabled: true
+  navigation:
+    - title: "Početna"
+      url: /
+    - title: "Instalacija"
+      url: /instalacija
+    - title: "Podešavanje"
+      url: /podesavanje
+    - title: "Testiranje"
+      url: /testiranje

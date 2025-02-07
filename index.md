@@ -8,4 +8,4 @@ Dobrodošli u dokumentaciju za integraciju sa brzom poštom!
 sekcija
 test
 - **Praćenje pošiljki**
-- - **Deljenje porudžbine u pakete**
+- **Deljenje porudžbine u pakete**

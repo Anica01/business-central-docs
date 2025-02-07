@@ -5,5 +5,3 @@ Dobrodošli u dokumentaciju za integraciju sa brzom poštom!
 - **Kreiranje Sales Order-a**
 - **Deljenje porudžbine u pakete**
 - **Praćenje pošiljki**  
-
-
